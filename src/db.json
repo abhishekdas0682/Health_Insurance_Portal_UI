@@ -1,0 +1,101 @@
+{
+  "policies": [
+    {
+      "plan_id": 1,
+      "policy_name": "Basic",
+      "description": "lalala",
+      "share": "60",
+      "premium_amount": "300",
+      "coverage_amount": "300000",
+      "is_active": "1",
+      "end_date": "2049"
+    },
+    {
+      "plan_id": 2,
+      "policy_name": "Premium",
+      "description": "lalalalala",
+      "share": "65",
+      "premium_amount": "350",
+      "coverage_amount": "400000",
+      "is_active": "1",
+      "end_date": "2059"
+    },
+    {
+      "plan_id": 3,
+      "policy_name": "Supreme",
+      "description": "lalalalalalala",
+      "share": "75",
+      "premium_amount": "450",
+      "coverage_amount": "450000",
+      "is_active": "1",
+      "end_date": "2079"
+    },
+    {
+      "plan_id": 4,
+      "policy_name": "Ultimate",
+      "description": "bababa",
+      "share": "80",
+      "premium_amount": "500",
+      "coverage_amount": "500000",
+      "is_active": "1",
+      "end_date": "2099"
+    }
+  ],
+  "customers": [
+    {
+      "user_id": "C89765",
+      "user_name": "Baba Yagi",
+      "email_id": "babababa@gmail.com",
+      "contact_number": 1234567890,
+      "address": "Bangalore",
+      "gender": "M",
+      "request_id": 1
+    },
+    {
+      "user_id": "C89764",
+      "user_name": "Abraham",
+      "email_id": "abraham@gmail.com",
+      "contact_number": 1244567891,
+      "address": "Bangalore",
+      "gender": "M",
+      "request_id": 1
+    },
+    {
+      "user_id": "C89763",
+      "user_name": "Rawal",
+      "email_id": "rawal@gmail.com",
+      "contact_number": 1244667890,
+      "address": "Bangalore",
+      "gender": "M",
+      "request_id": 1
+    }
+  ],
+  "requests": [
+    {
+      "email_id": "sam@gmail.com",
+      "request_status": 0,
+      "request_date": "2019-12-12",
+      "request_id": 1
+    },
+    {
+      "email_id": "baba@gmail.com",
+      "request_status": 0,
+      "request_date": "2019-04-09",
+      "request_id": 2
+    },
+    {
+      "email_id": "dida@gmail.com",
+      "request_status": 0,
+      "request_date": "2019-03-06",
+      "request_id": 3
+    }
+  ],
+  "profile": {
+    "name": "Abhishek Das",
+    "email": "adas65@gmail.com",
+    "phone_no": "9876543210",
+    "gender": "M",
+    "address": "Bangalore",
+    "role": "C"
+  }
+}

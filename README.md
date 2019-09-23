@@ -67,4 +67,29 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # HealthPortalUI
+1	Introduction
+
+Health Insurance Portal is a web-app using which Customer would be able to purchase Insurance Polices across different Payers. 
+2	Actors
+Following actors would be using Health Insurance Portal. 
+2.1	Payer 
+
+1.	Create/Update/Search/Delete Insurance Plans
+ 
+2.2	Customer 
+
+1.	Buy Insurance Plan
+2.	View Insurance Plan Details
+3.	View My Insurance Plans – Plans that were already purchased by Customer
+ 
+2.3	SuperUser (Payer + Customer)
+
+1.	Create/update/search/delete insurance plans
+2.	View Insurance Plans already purchased by Customers
+3.	Buy Insurance Plans on behalf of Customers. 
+4.	Export Insurance Plans by Payer/Customer/All
+3	Use Case Diagrams 
+
+ 
+
 # HI_Portal

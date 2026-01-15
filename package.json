@@ -28,7 +28,7 @@
     "react-transition-group": "^4.2.2",
     "reactrangeslider": "^3.0.6",
     "reactstrap": "^8.0.1",
-    "sinon": "^7.4.1"
+    "sinon": "^21.0.1"
   },
   "scripts": {
     "start": "set PORT=3006 && react-scripts start",
